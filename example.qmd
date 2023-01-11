@@ -1,0 +1,21 @@
+---
+title: "Exclude-sections Example"
+filters:
+  - exclude-sections
+---
+
+# Heading 1
+
+foo
+
+# Heading 2
+
+bar
+
+## Heading 2.1
+
+baz
+
+# Heading 3
+
+buzz
